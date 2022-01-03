@@ -48,6 +48,12 @@
   <a href="https://nestjs.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nest"/> 
   </a>
+  <a href="https://angular.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular"/> 
+  </a>
+  <a href="https://ionicframework.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" alt="angular"/> 
+  </a>
 </p>
 
 <p align= "center">
